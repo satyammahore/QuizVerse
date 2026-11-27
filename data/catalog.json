@@ -1,0 +1,178 @@
+{
+  "subjects": [
+    {
+      "id": "english",
+      "title": "English",
+      "icon": "📘",
+      "subtitle": "Previous Year Grammar • Fill in the Blanks & Do as Directed",
+      "categories": [
+        {
+          "id": "eng-pyq",
+          "tag": "Board Exam Special",
+          "title": "Previous Year Objective",
+          "subtitle": "Part A (Fill in the Blanks) & Part B (Do as Directed)",
+          "quizzes": [
+            {
+              "id": "part-a",
+              "tag": "Part A",
+              "title": "Fill in the Blanks",
+              "subtitle": "MCQ Practice • Hints & Explanations",
+              "modes": [
+                {
+                  "id": "mcq",
+                  "label": "MCQ Quiz",
+                  "file": "data/english/part-a-mcq.json",
+                  "inputType": "mcq"
+                }
+              ]
+            },
+            {
+              "id": "part-b",
+              "tag": "Part B",
+              "title": "Do as Directed",
+              "subtitle": "MCQ + Type Answer • Hints & Explanations",
+              "modes": [
+                {
+                  "id": "mcq",
+                  "label": "MCQ Quiz",
+                  "file": "data/english/part-b-mcq.json",
+                  "inputType": "mcq"
+                },
+                {
+                  "id": "type",
+                  "label": "✍️ Type Answer",
+                  "file": "data/english/part-b-type.json",
+                  "inputType": "type"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hindi",
+      "title": "हिन्दी (Hindi)",
+      "icon": "📙",
+      "subtitle": "पिछले वर्षों के प्रश्न • आरोह, वितान एवं व्याकरण",
+      "categories": [
+        {
+          "id": "hin-pyq",
+          "tag": "बोर्ड परीक्षा विशेष",
+          "title": "Previous Years Question",
+          "subtitle": "1. आरोह • 2. वितान • 3. व्याकरण",
+          "sections": [
+            {
+              "id": "hin-aaroh",
+              "tag": "भाग 1",
+              "title": "आरोह (Aaroh)",
+              "subtitle": "काव्य खंड एवं गद्य खंड • MCQ और सही जोड़ी",
+              "quizzes": [
+                {
+                  "id": "aaroh-mcq",
+                  "tag": "वस्तुनिष्ठ",
+                  "title": "आरोह — MCQ अभ्यास",
+                  "subtitle": "सही विकल्प • सत्य/असत्य • रिक्त स्थान",
+                  "modes": [
+                    {
+                      "id": "mcq",
+                      "label": "MCQ अभ्यास",
+                      "file": "data/hindi/aaroh-mcq.json",
+                      "inputType": "mcq"
+                    }
+                  ]
+                },
+                {
+                  "id": "aaroh-match",
+                  "tag": "मिलान",
+                  "title": "आरोह — सही जोड़ी (Match the Column)",
+                  "subtitle": "स्तंभ 'अ' से स्तंभ 'ब' का मिलान करें",
+                  "modes": [
+                    {
+                      "id": "matching",
+                      "label": "सही जोड़ी",
+                      "file": "data/hindi/aaroh-matching.json",
+                      "inputType": "matching"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "hin-vitan",
+              "tag": "भाग 2",
+              "title": "वितान (Vitan)",
+              "subtitle": "पूरक पाठ्यपुस्तक • MCQ और सही जोड़ी",
+              "quizzes": [
+                {
+                  "id": "vitan-mcq",
+                  "tag": "वस्तुनिष्ठ",
+                  "title": "वितान — MCQ अभ्यास",
+                  "subtitle": "सही विकल्प • सत्य/असत्य • रिक्त स्थान",
+                  "modes": [
+                    {
+                      "id": "mcq",
+                      "label": "MCQ अभ्यास",
+                      "file": "data/hindi/vitan-mcq.json",
+                      "inputType": "mcq"
+                    }
+                  ]
+                },
+                {
+                  "id": "vitan-match",
+                  "tag": "मिलान",
+                  "title": "वितान — सही जोड़ी (Match the Column)",
+                  "subtitle": "स्तंभ 'अ' से स्तंभ 'ब' का मिलान करें",
+                  "modes": [
+                    {
+                      "id": "matching",
+                      "label": "सही जोड़ी",
+                      "file": "data/hindi/vitan-matching.json",
+                      "inputType": "matching"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "hin-vyakaran",
+              "tag": "भाग 3",
+              "title": "व्याकरण (Vyakaran)",
+              "subtitle": "काव्य बोध एवं भाषा बोध • MCQ और सही जोड़ी",
+              "quizzes": [
+                {
+                  "id": "vyakaran-mcq",
+                  "tag": "वस्तुनिष्ठ",
+                  "title": "व्याकरण — MCQ अभ्यास",
+                  "subtitle": "सही विकल्प • सत्य/असत्य • रिक्त स्थान",
+                  "modes": [
+                    {
+                      "id": "mcq",
+                      "label": "MCQ अभ्यास",
+                      "file": "data/hindi/vyakaran-mcq.json",
+                      "inputType": "mcq"
+                    }
+                  ]
+                },
+                {
+                  "id": "vyakaran-match",
+                  "tag": "मिलान",
+                  "title": "व्याकरण — सही जोड़ी (Match the Column)",
+                  "subtitle": "स्तंभ 'अ' से स्तंभ 'ब' का मिलान करें",
+                  "modes": [
+                    {
+                      "id": "matching",
+                      "label": "सही जोड़ी",
+                      "file": "data/hindi/vyakaran-matching.json",
+                      "inputType": "matching"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

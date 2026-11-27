@@ -1,0 +1,419 @@
+[
+  {
+    "id": 1,
+    "question": "If they work properly, they will not be punished. (Rewrite using 'unless')",
+    "answers": [
+      "Unless they work properly, they will be punished.",
+      "Unless they work properly they will be punished."
+    ],
+    "hint": "'If' ki jagah 'Unless' lagayein aur doosre clause se 'not' hata dein kyunki 'unless' khud negative hota hai.",
+    "explanation": "'Unless' ka matlab 'If...not' hota hai. Isliye 'If' ko 'Unless' se badalne par doosre clause ka 'not' hatakar 'they will be punished' likha jayega."
+  },
+  {
+    "id": 2,
+    "question": "Unless they work properly they will be punished. (Rewrite using 'if')",
+    "answers": [
+      "If they do not work properly, they will be punished.",
+      "If they do not work properly they will be punished.",
+      "If they don't work properly, they will be punished.",
+      "If they don't work properly they will be punished."
+    ],
+    "hint": "'Unless' hatakar 'If' lagayein aur Present Indefinite tense ke anusaar 'do not' jodein.",
+    "explanation": "Sentence Present Indefinite me hai aur subject 'they' plural hai, isliye 'Unless' ki jagah 'If they do not work properly' ka use hoga."
+  },
+  {
+    "id": 3,
+    "question": "If you do not work hard, you cannot pass. (Rewrite using 'unless')",
+    "answers": [
+      "Unless you work hard, you cannot pass.",
+      "Unless you work hard you cannot pass.",
+      "Unless you work hard, you can't pass.",
+      "Unless you work hard you can't pass."
+    ],
+    "hint": "'If...do not' ko hatakar uski jagah sirf 'Unless' lagayein; doosre clause me koi badlav nahi hoga.",
+    "explanation": "'If you do not' ko 'Unless you' me badal diya jata hai aur doosra clause 'you cannot pass' waisa hi rehta hai."
+  },
+  {
+    "id": 4,
+    "question": "You will miss the train if you don't hurry. (Rewrite using 'unless')",
+    "answers": [
+      "You will miss the train unless you hurry."
+    ],
+    "hint": "'if you don't' ki jagah 'unless you' ka use karein.",
+    "explanation": "'if you don't hurry' me se 'if' aur 'don't' hatakar 'unless you hurry' likhne se sentence ka arth wahi rehta hai."
+  },
+  {
+    "id": 5,
+    "question": "Unless you invite me, I will not come. (Rewrite using 'if')",
+    "answers": [
+      "If you do not invite me, I will not come.",
+      "If you do not invite me I will not come.",
+      "If you don't invite me, I will not come.",
+      "If you don't invite me, I won't come.",
+      "If you do not invite me, I won't come."
+    ],
+    "hint": "'Unless you' ko hatakar Present Indefinite me 'If you do not' lagayein.",
+    "explanation": "'Unless' hatane par negative arth banaye rakhne ke liye 'If you do not invite me' ka use kiya jata hai."
+  },
+  {
+    "id": 6,
+    "question": "He is too poor to pay his fees. (Rewrite using 'so...that')",
+    "answers": [
+      "He is so poor that he cannot pay his fees.",
+      "He is so poor that he can't pay his fees."
+    ],
+    "hint": "'too' ki jagah 'so' lagayein aur 'to' ki jagah 'that + Subject + cannot' (Present tense hone ke karan) likhein.",
+    "explanation": "Sentence 'is' (Present tense) me hai, isliye 'too...to' ko hatakar 'so poor that he cannot pay his fees' banega."
+  },
+  {
+    "id": 7,
+    "question": "This box is too heavy to be lifted. (Rewrite using 'so...that')",
+    "answers": [
+      "This box is so heavy that it cannot be lifted.",
+      "This box is so heavy that it can't be lifted."
+    ],
+    "hint": "'This box' ke liye pronoun 'it' ka use karein aur Present tense me 'cannot' lagayein.",
+    "explanation": "'too' ko 'so' me badlein aur 'to be lifted' ko 'that it cannot be lifted' me change karein."
+  },
+  {
+    "id": 8,
+    "question": "This question is so difficult that we cannot learn it. (Replace 'so...that' with 'too...to')",
+    "answers": [
+      "This question is too difficult for us to learn."
+    ],
+    "hint": "'so' ki jagah 'too' lagayein aur 'that we cannot' ko 'for us to' me badlein (aakhir se 'it' hata dein).",
+    "explanation": "'so difficult that we cannot learn it' ko 'too...to' me badalne par 'too difficult for us to learn' sahi structure banta hai."
+  },
+  {
+    "id": 9,
+    "question": "As soon as the teacher left the class, the students started shouting. (Use 'no sooner...than')",
+    "answers": [
+      "No sooner did the teacher leave the class than the students started shouting."
+    ],
+    "hint": "Past Indefinite ('left') hone par 'No sooner did + Subject + V1' aur comma ki jagah 'than' lagta hai.",
+    "explanation": "'left' V2 hai, isliye 'No sooner did the teacher leave' (V1) aayega aur dono clauses ko jodne ke liye 'than' lagega."
+  },
+  {
+    "id": 10,
+    "question": "As soon as he saw the police, he ran away. (Use 'no sooner...than')",
+    "answers": [
+      "No sooner did he see the police than he ran away."
+    ],
+    "hint": "'did' ke saath verb ki first form ('see') aati hai aur 'No sooner' ke saath 'than' lagta hai.",
+    "explanation": "'saw' Past Indefinite hai, isliye 'No sooner did he see the police' banega aur comma hatakar 'than' lagega."
+  },
+  {
+    "id": 11,
+    "question": "As soon as Sunit gets salary he starts spending it. (Use 'No sooner...than')",
+    "answers": [
+      "No sooner does Sunit get salary than he starts spending it.",
+      "No sooner does Sunit get his salary than he starts spending it."
+    ],
+    "hint": "'gets' Present Indefinite hai, isliye 'No sooner does + Subject + V1' ka use hoga.",
+    "explanation": "Present Indefinite aur singular subject 'Sunit' ke karan 'No sooner does Sunit get salary' aayega aur 'than' se doosra clause judega."
+  },
+  {
+    "id": 12,
+    "question": "As soon as he closed his eyes, the telephone rang. (Use 'no sooner...than')",
+    "answers": [
+      "No sooner did he close his eyes than the telephone rang."
+    ],
+    "hint": "'closed' Past Indefinite hai, isliye 'did' ke saath V1 ('close') aur 'than' ka use karein.",
+    "explanation": "'As soon as he closed' ko 'No sooner did he close' me badlein aur comma ki jagah 'than' lagayein."
+  },
+  {
+    "id": 13,
+    "question": "We will leave. We finish our work. (Combine using 'as soon as')",
+    "answers": [
+      "We will leave as soon as we finish our work.",
+      "As soon as we finish our work, we will leave."
+    ],
+    "hint": "'as soon as' wale clause me Future tense ('will') ka use nahi hota, wahan Simple Present hi rehta hai.",
+    "explanation": "Dono sentences ko jodne par 'We will leave as soon as we finish our work' sahi banega ('as soon as' ke baad Simple Present use hota hai)."
+  },
+  {
+    "id": 14,
+    "question": "He makes nice tea. (Change the Voice)",
+    "answers": [
+      "Nice tea is made by him."
+    ],
+    "hint": "Simple Present Passive structure: Object + is/am/are + V3 + by + Subject.",
+    "explanation": "'makes' Simple Present tense hai, isliye Passive me 'is made' aur 'He' ka 'by him' hoga."
+  },
+  {
+    "id": 15,
+    "question": "Ravi knows him. (Change the Voice)",
+    "answers": [
+      "He is known to Ravi."
+    ],
+    "hint": "Passive voice me 'known' ke baad 'by' ki jagah hamesha preposition 'to' lagta hai.",
+    "explanation": "'knows' Simple Present hai aur 'know' verb ke saath passive me 'by' nahi balki 'to' ('known to') ka use hota hai."
+  },
+  {
+    "id": 16,
+    "question": "What are you reading? (Change the Voice)",
+    "answers": [
+      "What is being read by you?"
+    ],
+    "hint": "Present Continuous Interrogative Passive: What + is/are + being + V3 + by + Subject?",
+    "explanation": "Present Continuous ('are reading') ka passive banate waqt 'is being read' (V3) ka use kiya jata hai."
+  },
+  {
+    "id": 17,
+    "question": "They are not playing football. (Make passive)",
+    "answers": [
+      "Football is not being played by them.",
+      "Football isn't being played by them."
+    ],
+    "hint": "Present Continuous Negative Passive: Object + is/am/are + not + being + V3 + by + Subject.",
+    "explanation": "'Football' singular object hai aur sentence Present Continuous me hai, isliye 'is not being played by them' sahi hoga."
+  },
+  {
+    "id": 18,
+    "question": "Mona writes a letter. (Change the Voice)",
+    "answers": [
+      "A letter is written by Mona."
+    ],
+    "hint": "'writes' Simple Present tense hai; passive me 'is + V3' lagayein.",
+    "explanation": "'A letter' ke saath Simple Present passive me 'is written by Mona' banega."
+  },
+  {
+    "id": 19,
+    "question": "He cut trees with an axe. (Change the Voice)",
+    "answers": [
+      "Trees were cut by him with an axe."
+    ],
+    "hint": "'He cut' Past Indefinite tense hai (kyunki Present hota toh 'cuts' likha hota), aur 'Trees' plural hai.",
+    "explanation": "Past Indefinite aur plural subject 'Trees' hone ke karan 'were cut by him with an axe' sahi passive form hai."
+  },
+  {
+    "id": 20,
+    "question": "Suresh wrote a letter. (Change the Voice)",
+    "answers": [
+      "A letter was written by Suresh."
+    ],
+    "hint": "'wrote' Past Indefinite (V2) hai; passive me 'was/were + V3' lagta hai.",
+    "explanation": "Past Indefinite passive structure ke anusaar 'A letter was written by Suresh' sahi jawab hai."
+  },
+  {
+    "id": 21,
+    "question": "She hid the keys. (Change the Voice)",
+    "answers": [
+      "The keys were hidden by her."
+    ],
+    "hint": "'hid' Past Indefinite hai, 'the keys' plural hai, aur 'hide' ki V3 'hidden' hoti hai.",
+    "explanation": "Plural object 'The keys' ke saath Past Indefinite passive me 'were hidden by her' ka use hoga."
+  },
+  {
+    "id": 22,
+    "question": "The boy said, \"Mohan is writing a letter.\" (Change the Narration)",
+    "answers": [
+      "The boy said that Mohan was writing a letter."
+    ],
+    "hint": "Reporting verb 'said' past me hai, isliye Present Continuous ('is writing') Past Continuous ('was writing') me badlega.",
+    "explanation": "Indirect speech me inverted commas hatakar 'that' lagayein aur 'is writing' ko 'was writing' me badlein."
+  },
+  {
+    "id": 23,
+    "question": "The teacher said to us, \"The earth revolves around the sun.\" (Change into indirect speech)",
+    "answers": [
+      "The teacher told us that the earth revolves around the sun."
+    ],
+    "hint": "Universal truth (sarvbhaumik satya) wale sentences ka tense Indirect speech me kabhi nahi badalta.",
+    "explanation": "'said to' ko 'told' me badlein, lekin 'The earth revolves around the sun' ek universal truth hai isliye iska tense same rahega."
+  },
+  {
+    "id": 24,
+    "question": "The boy said to me, \"I have won the match.\" (Change the Narration)",
+    "answers": [
+      "The boy told me that he had won the match."
+    ],
+    "hint": "'I' subject ('The boy') ke anusaar 'he' me badlega aur Present Perfect ('have won') Past Perfect ('had won') ho jayega.",
+    "explanation": "'said to me' ka 'told me' banega, 'I' ka 'he' hoga, aur 'have won' ka tense badalkar 'had won' ho jayega."
+  },
+  {
+    "id": 25,
+    "question": "I bought a book. The book was published in Germany. (Combine using a Relative clause)",
+    "answers": [
+      "I bought a book which was published in Germany.",
+      "I bought a book that was published in Germany.",
+      "I bought a book which/that was published in Germany."
+    ],
+    "hint": "Nirjeev vastu ('a book') ko jodne ke liye relative pronoun 'which' ya 'that' ka use hota hai.",
+    "explanation": "'a book' ek non-living thing hai, isliye doosre sentence ke 'The book' ko hatakar 'which' ya 'that' se joda jayega."
+  },
+  {
+    "id": 26,
+    "question": "The girl is in blue dress. The girl is my sister. (Combine into an Adjective clause)",
+    "answers": [
+      "The girl who is in blue dress is my sister.",
+      "The girl who is in a blue dress is my sister."
+    ],
+    "hint": "Vyakti ('The girl') ko subject ke roop me jodne ke liye relative pronoun 'who' lagta hai.",
+    "explanation": "'The girl' ke baad relative pronoun 'who' lagakar adjective clause 'who is in blue dress' banaya jayega."
+  },
+  {
+    "id": 27,
+    "question": "The lady is a doctor. She is wearing a red dress. (Combine using a Relative Clause)",
+    "answers": [
+      "The lady who is wearing a red dress is a doctor."
+    ],
+    "hint": "'She' ki jagah 'who' lagayein aur is clause ko 'The lady' ke turant baad rakhein.",
+    "explanation": "'The lady' vyakti hai isliye 'She' ko 'who' se badalkar 'The lady who is wearing a red dress is a doctor' banega."
+  },
+  {
+    "id": 28,
+    "question": "My brother is a doctor. He always wears white clothes. (Combine using a Relative Clause)",
+    "answers": [
+      "My brother, who is a doctor, always wears white clothes.",
+      "My brother who is a doctor always wears white clothes."
+    ],
+    "hint": "Vyakti ('My brother') ke baare me extra jankari jodne ke liye 'who' ka use karein.",
+    "explanation": "'My brother' vyakti hai isliye relative pronoun 'who' ke saath 'My brother, who is a doctor, always wears white clothes' sahi hai."
+  },
+  {
+    "id": 29,
+    "question": "He replied that he would come. (Write the Noun clause from this sentence)",
+    "answers": [
+      "that he would come",
+      "He replied that he would come."
+    ],
+    "hint": "Verb ('replied') ke baad 'kya' (what) ka jawab dene wala hissa Noun Clause hota hai.",
+    "explanation": "'He replied' ke baad 'that he would come' verb ke object ka kaam kar raha hai, isliye yahi Noun Clause hai."
+  },
+  {
+    "id": 30,
+    "question": "He replied that he would return soon. (Identify the clause 'that he would return soon')",
+    "answers": [
+      "Noun Clause",
+      "Noun"
+    ],
+    "hint": "Yeh clause verb 'replied' ka object ban kar aa raha hai.",
+    "explanation": "'that he would return soon' verb 'replied' ke object ki tarah kaam kar raha hai, isliye yeh Noun Clause hai."
+  },
+  {
+    "id": 31,
+    "question": "Do it before you forget. (Name the clause 'before you forget')",
+    "answers": [
+      "Adverb Clause of Time",
+      "Adverb Clause"
+    ],
+    "hint": "'before' samay (time) ko darshata hai ('kab karna hai?').",
+    "explanation": "'before you forget' kaam karne ka samay bata raha hai, isliye yeh Adverb Clause of Time hai."
+  },
+  {
+    "id": 32,
+    "question": "She cannot afford it. She buys a car. (Combine using a non-finite clause)",
+    "answers": [
+      "Not being able to afford it, she buys a car.",
+      "Not being able to afford it she buys a car."
+    ],
+    "hint": "'cannot afford' ko participle phrase 'Not being able to afford' me badal kar dono sentences jodein.",
+    "explanation": "Non-finite clause banate waqt 'She cannot afford it' ko 'Not being able to afford it,' me badal kar 'she buys a car' se joda jata hai."
+  },
+  {
+    "id": 33,
+    "question": "We did it. (Change into Negative)",
+    "answers": [
+      "We did not do it.",
+      "We didn't do it."
+    ],
+    "hint": "Yahan 'did' main verb (V2) hai; negative banate waqt helping verb 'did not' ke baad main verb ki V1 ('do') lagana zaroori hai.",
+    "explanation": "Past Indefinite ke negative me 'did not + V1' lagta hai, isliye 'We did not do it' sahi jawab hai ('do' lagana na bhulein)."
+  },
+  {
+    "id": 34,
+    "question": "She put the glass on the table. (Change into Negative)",
+    "answers": [
+      "She did not put the glass on the table.",
+      "She didn't put the glass on the table."
+    ],
+    "hint": "'She put' Past Indefinite hai (agar Present hota toh 'puts' hota), isliye negative me 'did not + V1' lagega.",
+    "explanation": "Subject 'She' ke saath 'put' likha hai jo V2 (Past) hai, isliye negative banate waqt 'did not put' ka use hoga."
+  },
+  {
+    "id": 35,
+    "question": "He teaches English. (Make Negative)",
+    "answers": [
+      "He does not teach English.",
+      "He doesn't teach English."
+    ],
+    "hint": "Present Indefinite me singular subject ('He') ke saath 'does not + V1' lagta hai.",
+    "explanation": "'teaches' se 'es' hatakar 'does not teach' likhne par sahi negative sentence banega."
+  },
+  {
+    "id": 36,
+    "question": "He did his work. / You did it nicely. / He did the job very well. (Make Negative)",
+    "answers": [
+      "He did not do his work. / You did not do it nicely. / He did not do the job very well.",
+      "He did not do his work.",
+      "He didn't do his work."
+    ],
+    "hint": "Teeno sentences Past Indefinite me hain jahan 'did' main verb hai; negative me har jagah 'did not do' aayega.",
+    "explanation": "Past Indefinite me 'did' ko negative banane ke liye 'did not' ke saath verb ki first form 'do' lagayi jati hai."
+  },
+  {
+    "id": 37,
+    "question": "The students should have submitted the homework on time. (Change into Negative)",
+    "answers": [
+      "The students should not have submitted the homework on time.",
+      "The students shouldn't have submitted the homework on time."
+    ],
+    "hint": "Do helping verbs ('should' aur 'have') aane par 'not' hamesha pehle auxiliary verb ('should') ke turant baad lagta hai.",
+    "explanation": "'should have' ka negative 'should not have' hota hai, isliye 'should not have submitted' sahi hai."
+  },
+  {
+    "id": 38,
+    "question": "Our team won the match. (Change into Past Perfect Tense)",
+    "answers": [
+      "Our team had won the match."
+    ],
+    "hint": "Past Perfect Tense ka structure: Subject + had + V3 + Object.",
+    "explanation": "Past Perfect me 'had' ke saath verb ki third form ('won') lagti hai, isliye 'Our team had won the match' sahi hai."
+  },
+  {
+    "id": 39,
+    "question": "They are playing cricket. (Rewrite in Present Perfect Tense)",
+    "answers": [
+      "They have played cricket."
+    ],
+    "hint": "Present Perfect Tense structure: Subject + has/have + V3 + Object ('They' ke saath 'have' lagta hai).",
+    "explanation": "Plural subject 'They' ke saath Present Perfect me 'have' aur 'play' ki V3 'played' ('They have played cricket') aayegi."
+  },
+  {
+    "id": 40,
+    "question": "Metal / lead / is / than / other / any / heavier /. (Rearrange into a meaningful sentence)",
+    "answers": [
+      "Lead is heavier than any other metal."
+    ],
+    "hint": "Comparative degree structure: Subject + is + comparative adjective + than + any other + singular noun.",
+    "explanation": "Shabdon ko sahi kram me rakhne par 'Lead is heavier than any other metal.' ek arthpurna comparative vakya banta hai."
+  },
+  {
+    "id": 41,
+    "question": "best / the / policy / is / honesty /. (Rearrange to make a meaningful sentence)",
+    "answers": [
+      "Honesty is the best policy."
+    ],
+    "hint": "Yeh ek prasiddh kahavat (proverb) hai jo 'Honesty' se shuru hoti hai.",
+    "explanation": "Sahi kram me rakhne par prasiddh kahavat 'Honesty is the best policy.' banti hai."
+  },
+  {
+    "id": 42,
+    "question": "They did not like him. They did not talk to him. (Join using 'neither...nor')",
+    "answers": [
+      "They neither liked him nor talked to him."
+    ],
+    "hint": "'did not' hatakar dono verbs ko Past Indefinite (V2: 'liked' aur 'talked') me badlein aur 'neither...nor' se jodein.",
+    "explanation": "'neither...nor' khud negative hai isliye 'did not' hat jayega aur Past tense banaye rakhne ke liye 'liked' aur 'talked' (V2) aayega."
+  },
+  {
+    "id": 43,
+    "question": "That he is a doctor is certain. (Rewrite the sentence with 'it')",
+    "answers": [
+      "It is certain that he is a doctor."
+    ],
+    "hint": "Sentence ki shuruat 'It is certain' se karein aur uske baad 'that he is a doctor' jodein.",
+    "explanation": "'It' se shuru karne par 'It is certain that he is a doctor.' sahi aur natural sentence structure banta hai."
+  }
+]

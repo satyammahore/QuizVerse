@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Verse — Practice & Master</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-layer" aria-hidden="true"></div>
+  <div class="bg-overlay" aria-hidden="true"></div>
+
+  <!-- SCREEN 1: HOME (SUBJECTS) -->
+  <div class="screen active" id="screenHome">
+    <div class="app-shell">
+      <header class="hero">
+        <div class="brand-badge">✦ Interactive Exam Practice</div>
+        <h1 class="site-title">Quiz <span>Verse</span></h1>
+
+        <div class="quote-box" id="quoteBox" title="Tap for next quote">
+          <span class="quote-mark">“</span>
+          <p id="quoteText" class="quote-text">Small daily practice builds unstoppable confidence.</p>
+          <span class="quote-mark">”</span>
+        </div>
+      </header>
+
+      <main class="subjects-section">
+        <h2 class="section-label">Choose a Subject</h2>
+        <div class="subjects-list" id="subjectsList"></div>
+
+        <!-- Upcoming Subjects Card -->
+        <button type="button" class="subject-card upcoming-card" id="comingSoonCard" style="margin-top: 16px;">
+          <div class="subject-left">
+            <div class="subject-icon">🗓️</div>
+            <div class="subject-info">
+              <h3>More subjects coming in December</h3>
+              <p>Physics, Chemistry &amp; Maths chapter-wise sets are on the way</p>
+            </div>
+          </div>
+          <span class="soon-pill">Soon</span>
+        </button>
+      </main>
+
+      <footer class="site-footer">
+        <p>Designed &amp; Built by <span class="creator-name">Satyam Mahore</span> ✦</p>
+      </footer>
+    </div>
+  </div>
+
+  <!-- SCREEN 2: SUBJECT FULL-SCREEN (e.g. Previous Year Objective + Future Chapters) -->
+  <div class="screen hidden" id="screenCategory">
+    <header class="top-nav">
+      <div class="nav-inner">
+        <button type="button" class="back-btn" id="btnBackToHome" aria-label="Back to Home">← Home</button>
+        <h2 class="nav-title" id="categoryScreenTitle">Subject ✦</h2>
+        <div class="nav-spacer"></div>
+      </div>
+    </header>
+    <main class="screen-body">
+      <p class="sub-heading" id="categorySubHeading">Select Practice Section</p>
+      <div class="part-list" id="categoryList"></div>
+    </main>
+  </div>
+
+  <!-- SCREEN 3: SUB-SECTIONS FULL-SCREEN (Part A / Part B OR Hindi MCQ / Matching) -->
+  <div class="screen hidden" id="screenQuizList">
+    <header class="top-nav">
+      <div class="nav-inner">
+        <button type="button" class="back-btn" id="btnBackToCategory" aria-label="Back">← Back</button>
+        <h2 class="nav-title" id="quizListScreenTitle">Previous Year Objective ✦</h2>
+        <div class="nav-spacer"></div>
+      </div>
+    </header>
+    <main class="screen-body">
+      <p class="sub-heading" id="quizListSubHeading">Choose Practice Set</p>
+      <div class="part-list" id="quizPartsList"></div>
+    </main>
+  </div>
+
+  <!-- SCREEN 4: ACTIVE FULL-SCREEN QUIZ -->
+  <div class="screen hidden" id="screenQuizPlay">
+    <header class="top-nav">
+      <div class="nav-inner">
+        <button type="button" class="back-btn" id="btnBackToQuizList" aria-label="Back">← Back</button>
+        <h2 class="nav-title" id="activeQuizTitle">Quiz ✦</h2>
+        <button type="button" class="mini-reset-btn" id="restartQuizBtn">↻ Reset</button>
+      </div>
+
+      <!-- Sticky Progress & Mode Bar -->
+      <div class="nav-sub-bar">
+        <div class="mode-toggle hidden" id="modeToggleWrap"></div>
+
+        <div class="progress-wrap">
+          <div class="progress-track">
+            <div class="progress-fill" id="progressFill"></div>
+          </div>
+          <div class="stats-row">
+            <span id="statsText">Solved: 0 / 0 · Remaining: 0</span>
+            <span class="score-pill" id="scorePill">Score: 0</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="screen-body quiz-body">
+      <div id="quizList" class="quiz-list"></div>
+
+      <!-- Final Score & Wrong Answers Review Section -->
+      <div id="scoreBanner" class="score-banner hidden"></div>
+      <div id="wrongReviewSection" class="wrong-review-wrap hidden"></div>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="script.js"></script>
+</body>
+</html>

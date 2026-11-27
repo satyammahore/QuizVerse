@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1,
+    "question": "They stayed in _____ hotel near the beach and visited _____ museum in the evening.",
+    "options": [
+      "a, a",
+      "a, the",
+      "an, the",
+      "the, a"
+    ],
+    "answer": 1,
+    "hint": "Pehli baar kisi singular countable noun ka zikr ho toh 'a/an' lagta hai, aur kisi khaas jagah ke liye 'the' lagta hai.",
+    "explanation": "'Hotel' consonant sound ('h') se shuru hota hai isliye 'a' lagega, aur 'museum' ek specific jagah ke roop me refer ho raha hai isliye 'the' aayega."
+  },
+  {
+    "id": 2,
+    "question": "I have a car. _____ car is very comfortable.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 2,
+    "hint": "Jab kisi noun ka zikr pehle ho chuka ho aur dobara usi ki baat ho, toh kaunsa article lagta hai?",
+    "explanation": "Pehle sentence me 'a car' ka zikr ho chuka hai, isliye doosre sentence me usi definite car ke liye 'The' ka use hoga."
+  },
+  {
+    "id": 3,
+    "question": "_____ umbrella is _____ useful thing.",
+    "options": [
+      "An, a",
+      "A, an",
+      "An, an",
+      "The, a"
+    ],
+    "answer": 0,
+    "hint": "Article lagate waqt spelling nahi balki shabd ki shuruati sound (vowel ya consonant) dekhein.",
+    "explanation": "'Umbrella' vowel sound ('अ') se shuru hota hai isliye 'An' lagega, jabki 'useful' consonant sound ('य') se shuru hota hai isliye 'a' aayega."
+  },
+  {
+    "id": 4,
+    "question": "How did you like living on _____ island for six months?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "hint": "'Island' shabd ke uchcharan (pronunciation) ki pehli sound par dhyan dein.",
+    "explanation": "'Island' ka uchcharan vowel sound ('आ') se shuru hota hai, isliye isse pehle indefinite article 'an' ka use hoga."
+  },
+  {
+    "id": 5,
+    "question": "They are watching _____ movie.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "hint": "'Movie' ek singular countable noun hai jo consonant sound se shuru hota hai.",
+    "explanation": "'Movie' consonant sound ('म') se shuru hone wala singular noun hai, isliye yahan 'a' lagega."
+  },
+  {
+    "id": 6,
+    "question": "Mount Everest is _____ highest peak in the world.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 2,
+    "hint": "Superlative degree (jaise highest, tallest, best) se pehle hamesha kaunsa article lagta hai?",
+    "explanation": "'Highest' adjective ki superlative degree hai, aur superlative degree se pehle hamesha definite article 'the' ka use hota hai."
+  },
+  {
+    "id": 7,
+    "question": "He gave me _____ one rupee note.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 0,
+    "hint": "'One' ki spelling 'O' se shuru hoti hai, lekin iska uchcharan 'व' (consonant sound) se hota hai.",
+    "explanation": "'One' ka uchcharan 'वन' ('व' consonant sound) se shuru hota hai, isliye 'an' ki jagah 'a' ka use sahi hai."
+  },
+  {
+    "id": 8,
+    "question": "She is _____ M.A. in English. / Mohit is _____ M.Sc. student.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "hint": "Abbreviations (M.A., M.Sc.) ko bolte waqt pehle akshar 'M' ka uchcharan 'एम' (vowel sound) se hota hai.",
+    "explanation": "'M.A.' aur 'M.Sc.' ka uchcharan vowel sound ('ए') se shuru hota hai, isliye dono jagah 'an' ka use hoga."
+  },
+  {
+    "id": 9,
+    "question": "Have they _____ complaint against you? / Do you have _____ money / apples?",
+    "options": [
+      "some",
+      "any",
+      "many",
+      "much"
+    ],
+    "answer": 1,
+    "hint": "Interrogative (prashnvachak) aur negative sentences me aam taur par kaunsa determiner use hota hai?",
+    "explanation": "Sawal puchhne wale (interrogative) sentences me 'some' ki jagah 'any' ka use kiya jata hai."
+  },
+  {
+    "id": 10,
+    "question": "There are _____ chairs in the classroom, so please bring some more.",
+    "options": [
+      "few",
+      "little",
+      "much",
+      "any"
+    ],
+    "answer": 0,
+    "hint": "'Chairs' ek plural countable noun hai, isliye countable ke liye use hone wala determiner chunein.",
+    "explanation": "'Chairs' countable noun hai isliye 'few' (bahut kam) ka use hoga; 'little' aur 'much' uncountable nouns ke saath lagte hain."
+  },
+  {
+    "id": 11,
+    "question": "The school library has _____ books on Psychology.",
+    "options": [
+      "few",
+      "little",
+      "much",
+      "any"
+    ],
+    "answer": 0,
+    "hint": "'Books' ko gina ja sakta hai (countable noun), isliye sankhya batane wala determiner lagayein.",
+    "explanation": "'Books' plural countable noun hai, isliye iske saath 'few' ka use hoga ('little' aur 'much' uncountable ke liye aate hain)."
+  },
+  {
+    "id": 12,
+    "question": "Rajiv has _____ books in his own library.",
+    "options": [
+      "much",
+      "little",
+      "many",
+      "any"
+    ],
+    "answer": 2,
+    "hint": "'Books' plural countable noun hai; zyada sankhya dikhane ke liye kaunsa shabd aayega?",
+    "explanation": "Countable plural nouns (jaise 'books') ki adhik sankhya batane ke liye 'many' ka use hota hai, jabki 'much' uncountable ke liye lagta hai."
+  },
+  {
+    "id": 13,
+    "question": "How _____ experience have you got?",
+    "options": [
+      "much",
+      "many",
+      "may",
+      "few"
+    ],
+    "answer": 0,
+    "hint": "'Experience' (anubhav) ek uncountable noun hai, ise 1, 2, 3 karke nahi gina ja sakta.",
+    "explanation": "'Experience' uncountable noun hai, isliye matra (quantity) puchhne ke liye 'How much' ka use hoga."
+  },
+  {
+    "id": 14,
+    "question": "There is _____ water in the bottle.",
+    "options": [
+      "any",
+      "many",
+      "much",
+      "few"
+    ],
+    "answer": 2,
+    "hint": "'Water' ek uncountable noun hai aur sentence affirmative (sakaratmak) hai.",
+    "explanation": "'Water' uncountable noun hai isliye 'many' ya 'few' nahi lagega, aur positive sentence hone ke karan 'much' sahi hai."
+  },
+  {
+    "id": 15,
+    "question": "_____ the people were shouting loudly.",
+    "options": [
+      "All",
+      "Whole",
+      "Every",
+      "Each"
+    ],
+    "answer": 0,
+    "hint": "Plural noun ('the people') aur plural verb ('were') ke saath kaunsa determiner sahi baithta hai?",
+    "explanation": "'All' ke baad 'the + plural noun' (All the people) ka use hota hai, jabki 'Every' aur 'Each' singular ke saath lagte hain."
+  },
+  {
+    "id": 16,
+    "question": "The traffic rules _____ be followed.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "may"
+    ],
+    "answer": 0,
+    "hint": "Kanoon aur traffic rules ka palan karna ek anivarya (compulsory) kartavya hai.",
+    "explanation": "Strict obligation ya anivarya niyam (traffic rules) dikhane ke liye modal 'must' ka use kiya jata hai."
+  },
+  {
+    "id": 17,
+    "question": "You _____ wear a helmet while riding a two-wheeler.",
+    "options": [
+      "must",
+      "should",
+      "may",
+      "could"
+    ],
+    "answer": 0,
+    "hint": "Two-wheeler chalate waqt helmet pehenna suraksha aur kanoon dono ke hisab se zaroori (compulsory) hai.",
+    "explanation": "Strong compulsion aur safety rule dikhane ke liye 'must' ka use sabse upyukt hai."
+  },
+  {
+    "id": 18,
+    "question": "I _____ speak English fluently.",
+    "options": [
+      "can",
+      "need",
+      "dare",
+      "ought"
+    ],
+    "answer": 0,
+    "hint": "Present tense me kisi kaam ko karne ki kshamta (ability) dikhane ke liye kaunsa modal lagta hai?",
+    "explanation": "Vartaman samay ki yogyata ya ability (English bolne ki kshamta) dikhane ke liye 'can' ka use hota hai."
+  },
+  {
+    "id": 19,
+    "question": "We _____ to respect our elders.",
+    "options": [
+      "ought",
+      "must",
+      "should",
+      "can"
+    ],
+    "answer": 0,
+    "hint": "Blank ke turant baad 'to' laga hua hai; kis modal ke saath hamesha 'to' aata hai?",
+    "explanation": "'Ought' ek aisa modal hai jiske baad 'to' (ought to) ka use hota hai, jabki 'must' aur 'should' ke baad seedha V1 lagta hai."
+  },
+  {
+    "id": 20,
+    "question": "Hari / Rajat _____ run fast when he was young.",
+    "options": [
+      "can",
+      "could",
+      "may",
+      "will"
+    ],
+    "answer": 1,
+    "hint": "Sentence ke aakhir me 'when he was young' likha hai, jo past tense (bhootkaal) dikhata hai.",
+    "explanation": "Past tense ki ability (jawani me tez daudne ki kshamta) dikhane ke liye 'can' ke past form 'could' ka use hota hai."
+  },
+  {
+    "id": 21,
+    "question": "Keep / Place your books / the pen _____ the table.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "into"
+    ],
+    "answer": 2,
+    "hint": "Kisi satah (surface) ke upar koi cheez rakhi ho toh kaunsa preposition lagta hai?",
+    "explanation": "Table ki upari satah (surface) par koi cheez rakhne ke liye preposition 'on' ka use hota hai."
+  },
+  {
+    "id": 22,
+    "question": "Place the pen _____ the table.",
+    "options": [
+      "upon",
+      "at",
+      "to",
+      "from"
+    ],
+    "answer": 0,
+    "hint": "Options me 'on' nahi hai; uski jagah satah par rakhne ke liye kaunsa preposition diya gaya hai?",
+    "explanation": "Diye gaye options me 'upon' ka use table ki satah ke upar pen rakhne (movement onto a surface) ke liye sahi hai."
+  },
+  {
+    "id": 23,
+    "question": "He was born _____ Mumbai.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": 0,
+    "hint": "Bade shahron, rajyon ya deshon ke naam se pehle kaunsa preposition lagta hai?",
+    "explanation": "Mumbai ek bada shahar hai, aur bade sthanon ke naam se pehle preposition 'in' ka use kiya jata hai."
+  },
+  {
+    "id": 24,
+    "question": "They have been playing cricket _____ morning.",
+    "options": [
+      "since",
+      "for",
+      "to",
+      "from"
+    ],
+    "answer": 0,
+    "hint": "'Morning' ek nishchit samay (point of time) hai, avadhi (duration) nahi.",
+    "explanation": "Present Perfect Continuous tense me nishchit samay (point of time, jaise morning) se pehle 'since' ka use hota hai."
+  },
+  {
+    "id": 25,
+    "question": "Ravi is much elder _____ me.",
+    "options": [
+      "then",
+      "than",
+      "to",
+      "from"
+    ],
+    "answer": 2,
+    "hint": "'Older' ke saath 'than' lagta hai, lekin 'elder' ke saath hamesha ek fixed preposition aata hai.",
+    "explanation": "'Elder' ke baad tulna dikhane ke liye 'than' ki jagah hamesha preposition 'to' (elder to) ka use hota hai."
+  },
+  {
+    "id": 26,
+    "question": "I know you are afraid _____ dogs.",
+    "options": [
+      "from",
+      "of",
+      "by",
+      "with"
+    ],
+    "answer": 1,
+    "hint": "'Afraid' (darna) shabd ke saath hamesha ek fixed preposition lagta hai.",
+    "explanation": "Kisi cheez se darne ke arth me 'afraid' ke baad hamesha preposition 'of' (afraid of) ka use kiya jata hai."
+  },
+  {
+    "id": 27,
+    "question": "The cat jumped _____ the rat.",
+    "options": [
+      "on",
+      "at",
+      "upon",
+      "in"
+    ],
+    "answer": 2,
+    "hint": "Jab koi cheez gati (motion) ke saath kisi ke upar koodti hai toh kaunsa preposition lagta hai?",
+    "explanation": "Gati ke saath kisi ke upar koodne ya jhapatne (motion) ko dikhane ke liye 'upon' ka use hota hai."
+  },
+  {
+    "id": 28,
+    "question": "The ball passed _____ his head.",
+    "options": [
+      "over",
+      "under",
+      "upon",
+      "in"
+    ],
+    "answer": 0,
+    "hint": "Gend uske sar ko chhue bina upar se guzar gayi.",
+    "explanation": "Kisi cheez ke upar se bina sparsh (touch) kiye guzarne ke liye preposition 'over' ka use hota hai."
+  },
+  {
+    "id": 29,
+    "question": "He jumped _____ the river.",
+    "options": [
+      "in",
+      "into",
+      "from",
+      "on"
+    ],
+    "answer": 1,
+    "hint": "Bahar se andar ki taraf gati (motion) dikhane ke liye kaunsa preposition lagta hai?",
+    "explanation": "Nadi ke bahar se andar koodne ki gati (movement from outside to inside) dikhane ke liye 'into' ka use hota hai."
+  },
+  {
+    "id": 30,
+    "question": "Suresh is writing _____ a pencil.",
+    "options": [
+      "by",
+      "from",
+      "with",
+      "at"
+    ],
+    "answer": 2,
+    "hint": "Kisi auzar ya sadhan (instrument, jaise pen ya pencil) se kaam karne par kaunsa preposition lagta hai?",
+    "explanation": "Pencil ya pen jaise kisi instrument ke madhyam se likhne ke liye preposition 'with' ka use hota hai."
+  },
+  {
+    "id": 31,
+    "question": "He always _____ his homework before dinner.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "doing"
+    ],
+    "answer": 1,
+    "hint": "'Always' aadat (habit) dikhata hai, aur subject 'He' third-person singular hai.",
+    "explanation": "Present Indefinite tense me singular subject ('He') ke saath verb ki first form me 'es' lagkar 'does' banta hai."
+  },
+  {
+    "id": 32,
+    "question": "The milkman _____ milk daily in the evening.",
+    "options": [
+      "bring",
+      "brings",
+      "bringing",
+      "brought"
+    ],
+    "answer": 1,
+    "hint": "'Daily' rozana ki aadat dikhata hai aur 'The milkman' ek singular subject hai.",
+    "explanation": "Simple Present tense me singular subject ('The milkman') ke saath verb me 's' lagkar 'brings' ka use hoga."
+  },
+  {
+    "id": 33,
+    "question": "He usually _____ in Hindi / English.",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "spoken"
+    ],
+    "answer": 1,
+    "hint": "'Usually' aksar hone wali aadat batata hai aur subject 'He' singular hai.",
+    "explanation": "Present Indefinite tense me third-person singular subject ('He') ke saath 'speaks' ka use hota hai."
+  },
+  {
+    "id": 34,
+    "question": "English / Hindi is _____ in many countries.",
+    "options": [
+      "speak",
+      "spoke",
+      "spoken",
+      "speaking"
+    ],
+    "answer": 2,
+    "hint": "Yeh sentence Passive Voice me hai ('is + V3').",
+    "explanation": "Passive voice structure (is/am/are + V3) ke anusaar 'is' ke baad 'speak' ki third form 'spoken' aayegi."
+  },
+  {
+    "id": 35,
+    "question": "The chair is _____ by her.",
+    "options": [
+      "break",
+      "broke",
+      "broken",
+      "breaking"
+    ],
+    "answer": 2,
+    "hint": "Sentence me 'is _____ by her' diya hai, jo Passive Voice hai aur isme V3 lagti hai.",
+    "explanation": "Passive voice me 'is' ke baad verb ki third form (past participle) 'broken' ka use hota hai."
+  },
+  {
+    "id": 36,
+    "question": "No other fruit is as _____ as mango.",
+    "options": [
+      "sweet",
+      "sweeter",
+      "sweetest",
+      "more sweet"
+    ],
+    "answer": 0,
+    "hint": "'as ... as' ke beech mein hamesha adjective ki Positive Degree aati hai.",
+    "explanation": "'as _____ as' structure me tulna ke liye adjective ki positive degree ('sweet') ka use kiya jata hai."
+  },
+  {
+    "id": 37,
+    "question": "This is the girl _____ won the first prize in singing.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "hint": "Blank se pehle vyakti ('the girl') hai aur blank ke turant baad verb ('won') aayi hai.",
+    "explanation": "Kisi vyakti (person) ko subject ke roop me jodne ke liye relative pronoun 'who' ka use hota hai."
+  },
+  {
+    "id": 38,
+    "question": "This is the man _____ presided the meeting.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": 0,
+    "hint": "Blank se pehle 'the man' (person) hai aur baad me verb 'presided' hai.",
+    "explanation": "Vyakti ('the man') ke liye subjective relative pronoun 'who' ka use kiya jata hai."
+  },
+  {
+    "id": 39,
+    "question": "This is the boy _____ name is written on the board.",
+    "options": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+    ],
+    "answer": 1,
+    "hint": "Yahan ladke ka naam ('jiska naam') yaani adhikar/sambandh (possession) dikhaya ja raha hai.",
+    "explanation": "Possession (jiska/jiski) dikhane ke liye relative pronoun 'whose' ka use hota hai."
+  },
+  {
+    "id": 40,
+    "question": "The man _____ the police arrested last night lives near my building.",
+    "options": [
+      "whose",
+      "whom",
+      "which",
+      "where"
+    ],
+    "answer": 1,
+    "hint": "Yahan 'the man' arrest hone ka object hai ('jise police ne pakda').",
+    "explanation": "Jab vyakti ('the man') verb ka object ho ('jise'), tab objective relative pronoun 'whom' ka use hota hai."
+  },
+  {
+    "id": 41,
+    "question": "The train was late _____ the weather was foggy.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "or"
+    ],
+    "answer": 2,
+    "hint": "Doosra hissa ('the weather was foggy') train ke late hone ka karan (reason) bata raha hai.",
+    "explanation": "Kisi ghatna ka karan (reason) batane ke liye conjunction 'because' (kyunki) ka use kiya jata hai."
+  },
+  {
+    "id": 42,
+    "question": "Mona was absent _____ she was ill.",
+    "options": [
+      "so",
+      "because",
+      "but",
+      "and"
+    ],
+    "answer": 1,
+    "hint": "Mona ke absent hone ka karan uski bimari ('she was ill') thi.",
+    "explanation": "Karan (reason) batane wale clause ko jodne ke liye 'because' ka use hota hai."
+  },
+  {
+    "id": 43,
+    "question": "We were getting late for the show _____ we take a taxi.",
+    "options": [
+      "so",
+      "but",
+      "or",
+      "because"
+    ],
+    "answer": 0,
+    "hint": "Pehle hisse ka parinam (result) hai ki humne taxi li ('isliye humne taxi li').",
+    "explanation": "Parinam (result) dikhane ke liye conjunction 'so' (isliye) ka use kiya jata hai."
+  },
+  {
+    "id": 44,
+    "question": "No sooner did the teacher enter the class _____ the students stood up.",
+    "options": [
+      "than",
+      "then",
+      "after",
+      "when"
+    ],
+    "answer": 0,
+    "hint": "'No sooner' ke saath hamesha ek fixed pair conjunction aata hai.",
+    "explanation": "'No sooner' ke saath hamesha 'than' (t-h-a-n) ka pair banta hai, 'then' ya 'when' ka nahi."
+  }
+]
