@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "question": "Match the Column (Chapters 1 & 2 — Sets and Relations):",
+    "pairs": [
+      {
+        "left": "Value of φ ∩ U",
+        "right": "φ"
+      },
+      {
+        "left": "Value of φ ∪ U",
+        "right": "U"
+      },
+      {
+        "left": "Number of subsets of the set {2, 3, 5}",
+        "right": "8"
+      },
+      {
+        "left": "If n(A) = 1, then n(A × φ)",
+        "right": "0"
+      }
+    ],
+    "hint": "Recall the properties of empty set (φ) and universal set (U), and the subset formula 2ⁿ.",
+    "explanation": "φ ∩ U = φ, φ ∪ U = U, number of subsets of {2, 3, 5} = 2³ = 8, and since A × φ = φ, n(A × φ) = 0."
+  },
+  {
+    "id": 2,
+    "question": "Match the Column (Chapter 3 — Trigonometric Identities):",
+    "pairs": [
+      {
+        "left": "Formula for sin 2x",
+        "right": "2 sin x cos x"
+      },
+      {
+        "left": "Formula for cos 2x",
+        "right": "1 − 2 sin²x"
+      },
+      {
+        "left": "Formula for tan 2x",
+        "right": "2 tan x / (1 − tan²x)"
+      },
+      {
+        "left": "2 sin²(x/2)",
+        "right": "1 − cos x"
+      },
+      {
+        "left": "4 cos³θ − 3 cos θ",
+        "right": "cos 3θ"
+      },
+      {
+        "left": "sin 3x",
+        "right": "3 sin x − 4 sin³x"
+      }
+    ],
+    "hint": "Recall the standard double-angle (2x) and triple-angle (3x) trigonometric identities.",
+    "explanation": "sin 2x = 2 sin x cos x, cos 2x = 1 − 2 sin²x, tan 2x = 2 tan x / (1 − tan²x), 2 sin²(x/2) = 1 − cos x, 4 cos³θ − 3 cos θ = cos 3θ, and sin 3x = 3 sin x − 4 sin³x."
+  },
+  {
+    "id": 3,
+    "question": "Match the Column (Chapter 3 — Trigonometric Values Part 1):",
+    "pairs": [
+      {
+        "left": "Value of cos(−2π/3)",
+        "right": "−1/2"
+      },
+      {
+        "left": "Value of cos 135°",
+        "right": "−1/√2"
+      },
+      {
+        "left": "sin(−x)",
+        "right": "−sin x"
+      },
+      {
+        "left": "cos(−x)",
+        "right": "cos x"
+      },
+      {
+        "left": "cos π",
+        "right": "−1"
+      }
+    ],
+    "hint": "Use negative angle rules (cos(−x) = cos x, sin(−x) = −sin x) and quadrant sign rules.",
+    "explanation": "cos(−2π/3) = −cos(π/3) = −1/2, cos 135° = −cos 45° = −1/√2, sin(−x) = −sin x, cos(−x) = cos x, and cos π = −1."
+  },
+  {
+    "id": 4,
+    "question": "Match the Column (Chapter 3 — Trigonometric Values Part 2):",
+    "pairs": [
+      {
+        "left": "sin(π/2 − x)",
+        "right": "cos x"
+      },
+      {
+        "left": "cos(π/2 + x)",
+        "right": "−sin x"
+      },
+      {
+        "left": "cos(π/2 − x)",
+        "right": "sin x"
+      },
+      {
+        "left": "sec(π − x)",
+        "right": "−sec x"
+      },
+      {
+        "left": "cosec(π/2 − x)",
+        "right": "sec x"
+      }
+    ],
+    "hint": "Trigonometric functions change to co-functions at π/2 and remain unchanged at π; apply quadrant signs.",
+    "explanation": "sin(π/2 − x) = cos x, cos(π/2 + x) = −sin x, cos(π/2 − x) = sin x, sec(π − x) = −sec x, and cosec(π/2 − x) = sec x."
+  },
+  {
+    "id": 5,
+    "question": "Match the Column (Chapter 4 — Complex Numbers):",
+    "pairs": [
+      {
+        "left": "Value of i³",
+        "right": "−i"
+      },
+      {
+        "left": "Value of i⁴",
+        "right": "1"
+      },
+      {
+        "left": "Multiplicative inverse of 1 + i",
+        "right": "(1 − i)/2"
+      },
+      {
+        "left": "Value of i",
+        "right": "√(−1)"
+      },
+      {
+        "left": "Conjugate of −i",
+        "right": "i"
+      },
+      {
+        "left": "Conjugate of 1 + i",
+        "right": "1 − i"
+      }
+    ],
+    "hint": "Recall i = √(−1), i² = −1, conjugate changes the sign of i, and multiplicative inverse is z⁻¹ = z̄ / |z|².",
+    "explanation": "i³ = −i, i⁴ = 1, (1 + i)⁻¹ = (1 − i)/2, i = √(−1), conjugate of −i is i, and conjugate of 1 + i is 1 − i."
+  },
+  {
+    "id": 6,
+    "question": "Match the Column (Chapter 6 — Permutations and Combinations):",
+    "pairs": [
+      {
+        "left": "Value of ³P₂",
+        "right": "6"
+      },
+      {
+        "left": "Value of 0!",
+        "right": "1"
+      },
+      {
+        "left": "Value of ⁵C₂",
+        "right": "10"
+      }
+    ],
+    "hint": "Use ⁿPᵣ = n!/(n − r)!, ⁿCᵣ = n!/[r!(n − r)!], and 0! = 1.",
+    "explanation": "³P₂ = 3 × 2 = 6, by definition 0! = 1, and ⁵C₂ = (5 × 4)/(2 × 1) = 10."
+  },
+  {
+    "id": 7,
+    "question": "Match the Column (Chapters 9 & 11 — Straight Lines & 3D Geometry):",
+    "pairs": [
+      {
+        "left": "y-intercept of the line 2x − 3y + 6 = 0",
+        "right": "2"
+      },
+      {
+        "left": "Distance of point (2, 4, 5) from xz plane",
+        "right": "4"
+      },
+      {
+        "left": "The distance of the point (0, 0, 0) from origin",
+        "right": "0"
+      }
+    ],
+    "hint": "Set x = 0 for the y-intercept, and note that the distance of (x, y, z) from the xz-plane is |y|.",
+    "explanation": "Setting x = 0 in 2x − 3y + 6 = 0 gives y = 2, distance of (2, 4, 5) from xz-plane is |y| = 4, and distance of origin from itself is 0."
+  },
+  {
+    "id": 8,
+    "question": "Match the Column (Chapter 12 — Limits and Derivatives):",
+    "pairs": [
+      {
+        "left": "lim(θ→0) (sin θ / 2θ)",
+        "right": "1/2"
+      },
+      {
+        "left": "d/dθ (sin θ)",
+        "right": "cos θ"
+      },
+      {
+        "left": "d/dx (sin²x)",
+        "right": "sin 2x"
+      },
+      {
+        "left": "d/dx (sin 2x)",
+        "right": "2 cos 2x"
+      },
+      {
+        "left": "lim(x→1/2) (π sin x / x)",
+        "right": "2π"
+      },
+      {
+        "left": "d/dx (sin x)",
+        "right": "cos x"
+      }
+    ],
+    "hint": "Use the standard limit lim(θ→0) (sin θ / θ) = 1 and apply the chain rule for derivatives.",
+    "explanation": "lim(θ→0) (sin θ / 2θ) = 1/2, d/dθ (sin θ) = cos θ, d/dx (sin²x) = 2 sin x cos x = sin 2x, d/dx (sin 2x) = 2 cos 2x, lim(x→1/2) (π sin x / x) = 2π (as per exam answer key), and d/dx (sin x) = cos x."
+  }
+]
